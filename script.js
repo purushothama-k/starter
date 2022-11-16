@@ -176,6 +176,8 @@ btnTransfer.addEventListener('click', function (e) {
   }
 });
 
+btnLoan.addEventListener('click', function () {});
+
 btnClose.addEventListener('click', function (e) {
   e.preventDefault();
 
