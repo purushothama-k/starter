@@ -193,6 +193,8 @@ btnClose.addEventListener('click', function (e) {
   }
   inputCloseUsername.value = inputClosePin.value = '';
 });
+
+console.log('Hello');
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 // LECTURES
